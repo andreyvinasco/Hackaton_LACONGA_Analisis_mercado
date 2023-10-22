@@ -19,3 +19,4 @@ Permite crear set de datos intradia a lo largo de varios meses, incluyendo ademÃ
 Crea los datos de una compaÃ±ia, comoditi o criptomoneda. Solo es necesario cambiar el parametro Symbol para que coincida con el ticket deseado.
 
 -> entrenamiento.ipynb
+Entrenamiento usando el archivo de salida del codigo "Crear_datos_diarios.ipynb". Aqui se encuentran los resultados y las arquitecturas testeadas.
